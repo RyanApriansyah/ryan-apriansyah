@@ -1,0 +1,27 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.hero-section .right-content img{
+    width: 400px;
+    margin-top: 30px;
+    float: right;
+}
+.hero-section .left-content{
+    margin-top: 100px;
+}
+span{
+    height: 25px;
+    padding-bottom: -100px;
+    width: max-content;
+    background-color: bisque;
+}
+.img-card img{
+    width: 250px;
+}
+.membership img{
+    width: 170px;
+}
+.rounded-full img{
+    width: 35px;
+}
